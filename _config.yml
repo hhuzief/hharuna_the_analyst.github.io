@@ -1,0 +1,15 @@
+# GitHub Pages Configuration
+title: Haruna Huzief - Data Analyst Portfolio
+description: A skilled Data Analyst portfolio showcasing SQL, Python, Power BI, Machine Learning, and NLP projects
+author: Haruna Huzief
+url: https://hhuzief.github.io
+baseurl: ""
+
+# Theme
+theme: null
+
+# Markdown processor
+markdown: kramdown
+
+# Plugins
+plugins: []
